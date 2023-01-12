@@ -1,0 +1,20 @@
+.App-table{
+    background: white;
+    padding: 45px 120px 180px;
+    margin-top: 8%;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px rgb(29, 28, 28);
+}
+
+.buttons{
+    position: absolute;
+    display: flex;
+    margin-top: 55px;
+    left: 34%;
+}
+
+
+.sub-App{
+    display: flex;
+    gap: 60px;
+}
